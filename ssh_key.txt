@@ -1,4 +1,4 @@
-CTF-75099dca23a71a44f218aa7a5eec10ea
+FIAP{75099dca23a71a44f218aa7a5eec10ea}
 
 https://studio6.click
 
